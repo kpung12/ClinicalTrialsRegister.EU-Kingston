@@ -253,5 +253,5 @@ N. Date of Ethics Committee Opinion: 2004-08-13
 
 P. End of Trial
 P. End of Trial Status: Completed
-P. Date of the global end of the trial: 2018-07-06
+P. Date of the global end of the trial: 2018-08-06
 
