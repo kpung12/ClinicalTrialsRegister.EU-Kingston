@@ -9,6 +9,8 @@ Trial Status: Completed
 Date on which this record was first entered in the EudraCT database: 2012-09-12
 Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2012-003057-29/CZ/
 
+PREVIOUS CHANGES CHANGES CHANGES
+
 A. Protocol Information
 A.1 Member State Concerned: Czech Republic - SUKL
 A.2 EudraCT number: 2012-003057-29
