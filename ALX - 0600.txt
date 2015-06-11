@@ -1,0 +1,257 @@
+This file contains full details on each clinical trial selected for download. Where multi-state trials have been downloaded full information for each of the member states/countries involved in the trial are included separately.
+
+Summary
+EudraCT Number: 2004-000438-35
+Sponsor's Protocol Code Number: CL 0600-004
+National Competent Authority: Denmark - DHMA 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2004-08-27
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2004-000438-35/DK/
+
+A. Protocol Information
+A.1 Member State Concerned: Denmark - DHMA
+A.2 EudraCT number: 2004-000438-35
+A.3 Full title of the trial: A study of the Efficacy and Safety of Teduglutide in subjects with Parenteral Nutritional Dependant Short Bowel Syndrome
+A.3.2 Name or abbreviated title of the trial where available: N/A
+A.4.1 Sponsor's protocol code number: CL 0600-004
+A.5.1 ISRCTN (International Standard Randomised Controlled Trial) number: N/A
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: NPS Allelix Corporation
+B.1.3.4	Country: Canada
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: Yes
+D.2.5.1 Orphan drug designation number: EU/3/01/077
+D.3 Description of the IMP
+D.3.1 Product name: Teduglutide
+D.3.2 Product code: ALX - 0600
+D.3.4 Pharmaceutical form: Powder and solvent for solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.9.2 Current sponsor code: ALX - 0600
+D.3.9.3 Other descriptive name: Recombinant glycine2-human glucagon-like peptide-2, rh (gly2) GLP-1
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/l milligram(s)/litre
+D.3.10.2 Concentration type: range
+D.3.10.3 Concentration number: 5 mg/0.5 ml to 10mg/0.5ml
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Yes
+D.3.11.13.1 Other medicinal product type: Teduglutide is a recombinant analogue of the human intestinal peptide glucagon-like peptide-2 (GLP-2) extracted from E.Coli.
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Powder for solution for injection
+D.8.4 Route of administration of the placebo: Subcutaneous use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Short Bowel Syndrome (SBS) refers to the clinical situation whereby a significant reduction in the absorptive capacity of the intestine results from inadequate anatomical or functional length of residual small intestine following surgical resection. These patients are highly prone to malnutrition, diarrhea, and dehydration due to the reduced intestinal capacity to absorb macronutrients, water and electrolytes (1-8).
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: Yes
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The objective of this clinical study is to evaluate the efficacy, safety, tolerability, and
+pharmacokinetics (PK) of teduglutide compared with placebo in subjects with
+PN (Parenteral Nutrition)-dependent SBS.
+The primary objective is to compare the percentage of subjects treated with teduglutide versus placebo who demonstrate a response at week 20, and who maintain that response through week 24. A response in this study is defined as the achievement of at least a 20% reduction from baseline in weekly PN volume.
+E.2.2 Secondary objectives of the trial: The secondary efficacy objectives are to evaluate changes in volume of PN, frequency of PN, frequency of iv catheter access, and to evaluate quality of life and utilization of healthcare resources.
+Additional variables to be evaluated are changes from baseline in parathyroid hormone (PTH), bone markers, bone mineral density (BMD), plasma citrulline, and intestinal mucosal villus height and crypt depth. At selected centers, additional objectives are to evaluate changes in the enteral absorption of gastrointestinal fluid (wet weight), calories, nitrogen, fat, carbohydrate, sodium, magnesium, calcium, and potassium.
+The safety and tolerability of teduglutide treatments compared with placebo will be
+assessed. The population PK of teduglutide in subjects with PN-dependent SBS will also be determined.
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: Subjects who meet all of the following criteria can be enrolled in this study:
+1.Signed and dated informed consent form (ICF) before any study-related procedures are performed
+2.Men and women, aged 18 years of age or older at the time of signing the ICF
+3.SBS as a result of major in testinal resection, e.g., due to injury, volvulus, vascular disease, cancer, Crohn’s disease
+a.For subjects with a history of cancer (there are exceptions listed in Sec. 4.3 Exclusion criteria), the subject should be disease-free for at least 5 years
+b.For subjects with a history of Crohn’s disease, the subject should be in clinical remission, as determined by clinical assessment
+4.Body weight must be less than 90 kg at the time of enrollment
+5.Major intestinal resection resulting in at least 12 months dependency prior PN to the date of the signature of ICF. Minor ostomy revisions within this time period are allowable
+6.At baseline, subjects must require PN treatment to meet their caloric or electrolyte needs due to ongoing malabsorption at least 3 times weekly
+7.Stable for at least 4 consecutive weeks just prior to randomization in:
+a. Usage and volume of PN
+b. 48-hour urinary output (1.0 to 2.0 L/d)
+c. Urine sodium (greater than 20 mmol/d)
+d. Adequate renal function (serum creatinine and blood urea nitrogen [BUN]1.5 x ULN or less)
+e. Hct indicating satisfactory hydration (ULN or less)
+f. Motility altering medications (as defined in the Section 5.4) 
+8.Body mass index (BMI) 18 to 27 kg/m2
+9.Adequate hepatic function: (Alanine aminotransferase [ALT] and aspartate aminotransferase [AST] both less than 2. 0 x ULN; total bilirubin less than 1.25 x ULN; and alkaline phosphatase less than 2.5 x ULN)
+10.Female subjects who are not surgically sterile or postmenopausal must use 30 days after medically acceptable methods of birth control during and for the treatment period (see Section 6.2.7). Postmenopausal is defined as aged 60 years or older and 2 years must have elapsed since the last menses.
+11.Capable of understanding and be willing to adhere to the study visit schedule and other protocol requirements.
+
+E.4 Principal exclusion criteria: Subjects who meet any of the following criteria will be excluded:
+1.History of cancer or clinically significant lymphoproliferative disease with fewer than 5 years documented disease-free state. This does not include resected cutaneous basal or squamous cell carcinoma, or in situ cervical cancer.
+2.History of alcohol or drug abuse (within previous year)
+3.Participation in a clinical study within 30 days prior to signing the ICF, or concurrent participation in any clinical study
+4.Clinically significant laboratory abnormalities at the time of randomization
+5.Previous use of teduglutide (ALX-0600)
+6.Prior use of native GLP-2 within 3 months of screening visit
+7.Hospital admission within 1 month prior to screening visit
+8.Pregnant or lactating women
+9.Any condition or circumstance, which in the investigator’s opinion would put the subject at any undue risk, prevent completion of the study, or interfere with analysis of the study results
+10.Presence of excluded disease. The following is a table of excluded disease states arranged by body systems:
+Related to SBS
+    Radiation enteritis
+    Scleroderma
+    Celiac disease
+    Refractory or tropical sprue
+    Pseudo-obstruction
+
+Gastrointestinal (GI) 
+    Active inflammatory bowel disease (IBD)
+    Pre-malignant or malignant change in colonoscopy biopsy or polypectomy
+    Surgery scheduled within the time frame of the study
+
+Immune 
+    Human immunodeficiency virus (HIV) positive test
+    Immunological disorders
+    Possible allergies to teduglutide or its constituents
+
+Cardiovascular, respiratory, renal, endocrine, hepatic, or CNS
+    Significant active, uncontrolled, untreated systemic diseases
+
+11. Failure to adhere to required washout periods. The following table contains lists of certain medications, arranged by the periods of time that must have transpired after stopping them before the first dose of teduglutide in this study. Use of iv insulin is not excluded.
+
+E.5 End points
+E.5.1 Primary end point(s): The primary efficacy variable is the percentage of subjects who demonstrate a
+response at week 20, and who maintain that response through week 24. A response in this study is defined as the achievement of at least a 20% reduction from baseline in weekly PN volume.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: Yes
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: Yes
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: Information not present in EudraCT
+E.7.1.2 Bioequivalence study: Information not present in EudraCT
+E.7.1.3 Other: Information not present in EudraCT
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: Yes
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: There will be a 4-week follow-up period for subjects not entering into the extension study, during which subjects will not dose with study drug. The final study visit for these subjects will occur at the end of this 4-week period (week 28). The end of the study is defined as the day the last subject completes the last day of follow-up (week 28) or enters protocol CL0600-005.  
+
+All subjects who discontinue the study prematurely will be required to perform applicable week 24 evaluations.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 2
+E.8.9.1 In the Member State concerned months: 6
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 2
+E.8.9.2 In all countries concerned by the trial months: 6
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: Information not present in EudraCT
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2004-08-27) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 15
+F.4.2 For a multinational trial
+F.4.2.2 In the whole clinical trial: 125
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): Details provided in protocol
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2004-09-30
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2004-08-13
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2018-07-06
+
