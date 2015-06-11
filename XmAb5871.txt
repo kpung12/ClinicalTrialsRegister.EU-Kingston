@@ -1,0 +1,1236 @@
+This file contains full details on each clinical trial selected for download. Where multi-state trials have been downloaded full information for each of the member states/countries involved in the trial are included separately.
+
+Summary
+EudraCT Number: 2012-003057-29
+Sponsor's Protocol Code Number: XmAb5871-02
+National Competent Authority: Czech Republic - SUKL 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2012-09-12
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2012-003057-29/CZ/
+
+A. Protocol Information
+A.1 Member State Concerned: Czech Republic - SUKL
+A.2 EudraCT number: 2012-003057-29
+A.3 Full title of the trial: A RANDOMIZED, PLACEBO-CONTROLLED, DOUBLE-BLINDED, ASCENDING MULTIPLE DOSE STUDY OF THE SAFETY, TOLERABILITY, PHARMACOKINETICS AND PHARMACODYNAMICS OF XMAB®5871 IN PATIENTS WITH RHEUMATOID ARTHRITIS
+A.3 Full title of the trial (cs): RANDOMIZOVANÉ, PLACEBEM KONTROLOVANÉ, DVOJITE ZASLEPENÉ KLINICKÉ HODNOCENÍ S OPAKOVANÝMI ZVYŠUJÍCÍMI SE DÁVKAMI ZKOUMAJÍCÍ BEZPECNOST, SNÁŠENLIVOST, FARMAKOKINETIKU A FARMAKODYNAMIKU PRÍPRAVKU XmAb®5871 U PACIENTU S REVMATOIDNÍ ARTRITIDOU
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: A multi-centre, randomised, double-blind multiple dose study of increasing doses of XmAb5871 in patients with Rheumatoid Arthritis.
+
+A.3.2 Name or abbreviated title of the trial where available: XmAb®5871 Phase IIa, Ascending Multiple Dose Study in Rheumatoid Arthritis Patients
+A.4.1 Sponsor's protocol code number: XmAb5871-02
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Xencor Inc.
+B.1.3.4	Country: United States
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: Xencor Inc.
+B.4.2 Country: United States
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: MWB Consulting Ltd
+B.5.2 Functional name of contact point: Project Manager
+B.5.3 Address
+B.5.3.1 Street Address: Enbridge Coach House, Church Road
+B.5.3.2 Town/ city: Woolton Hill, Newbury, Berkshire
+B.5.3.3 Post code: RG209XQ
+B.5.3.4 Country: United Kingdom
+B.5.4 Telephone number: 443331213131
+B.5.5 Fax number: 443331213130
+B.5.6 E-mail: bnorton@mwbconsulting.com
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_10.0MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody. Lot Numbers: 1-FIN-1588 (9.6mg/ml)
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: range
+D.3.10.3 Concentration number: 9.0 to 11.0
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_3.0MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody. Lot Numbers: 1-FIN-1588 (9.6mg/ml)
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: range
+D.3.10.3 Concentration number: 9.0 to 11.0
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_1.0MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody. Lot Numbers: 1-FIN-1588 (9.6mg/ml)
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: range
+D.3.10.3 Concentration number: 9.0 to 11.0
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_0.3MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody. Lot Numbers: 1-FIN-1588 (9.6mg/ml)
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: range
+D.3.10.3 Concentration number: 9.0 to 11.0
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Concentrate for solution for infusion
+D.8.4 Route of administration of the placebo: Intravenous use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: XmAb5871 is a humanized Fc engineered monoclonal antibody that binds to the human B cell restricted cell surface antigen CD19. It has already entered Phase 1 clinical development. The available evidence suggests that XmAb5871 is a potentially useful immunomodulatory antibody for therapy of B cell mediated human disease states such as rheumatoid arthritis.
+E.1.1.1 Medical condition in easily understood language: Patients who are currently being treated for active rheumatoid arthritis, where their rheumatoid arthritis treatment has not changed for 12 weeks.
+E.1.1.2 Therapeutic area: Diseases [C] - Immune System Diseases [C20]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 16.1
+E.1.2 Level: HLT
+E.1.2 Classification code: 10039075
+E.1.2 Term: Rheumatoid arthritis and associated conditions
+E.1.2 System Organ Class: 100000004870
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To determine the safety and tolerability profile of multiple-dose, every 14-day, intravenous (iv) administration of XmAb5871 in patients with RA
+E.2.2 Secondary objectives of the trial: 1. To characterize the pharmacokinetics (PK) and immunogenicity of multiple-dose, intravenously administered XmAb5871 in patients with RA
+
+2. To evaluate the effect of XmAb5871 on RA disease response as measured by changes in Disease Activity Score 28 using C-reactive protein [DAS28-CRP] at Week 13 (Part B).
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1. Able to provide written informed consent.
+2. Male or female between 18 to 65 years of age for part A or 18 to 70 years of age for Part B, inclusive at the time of screening.
+3. Rheumatoid arthritis present for at least 6 months as defined by 1987 ACR RA classification criteria.
+4. Global functional class I, II, or III according to the ACR 1991 revised criteria (Hochberg 1992).
+5. For Part A: Active RA at screening defined as = 4 swollen joints (out of 28 joints examined) AND = 4 tender/painful joints (out of 28 joints examined) AND at least 1 of the following:
+a) ESR = 28 mm/hr, OR
+b) hsCRP = 10 mg/L, OR
+c) Morning stiffness = 45 minutes.
+6. For Part B: Active RA at screening defined as = 5 swollen joints (out of 28 joints examined) AND = 5 tender/painful joints (out of 28 joints examined), AND
+a) positive RF OR ACPA, AND
+b) hsCRP = 6 mg/L.
+7. Part B only: Previous inadequate clinical response to at least 1, but not more than 5 oral DMARDs.
+8. Currently taking methotrexate (MTX) consecutively for = 12 weeks and on a stable dose of oral or subcutaneous MTX at 7.5-25 mg weekly for = 4 weeks at Day -1. A lower MTX dose is acceptable if it is the highest tolerated dose; however, toxicity documentation by the Investigator is required. All patients will take folic acid to minimize toxicity, according to local guidelines. Patient may remain on a stable dose (= 8 weeks) of sulfasalazine (up to 3000 mg/day) and/or hydroxychloroquine (up to 400 mg/day) in combination with MTX. If previously experienced toxicity or lack of efficacy on MTX, patient may be on a stable dose (= 8 weeks) of sulfasalazine and/or leflunomide (up to 20 mg/day). Hydroxychloroquine (up to 400 mg/day) is allowed in combination with these DMARDs. Other oral DMARDs are not allowed within 4 weeks prior to screening.
+9. Patients currently taking non steroidal anti-inflammatory drugs (NSAIDs) or oral corticosteroids (not to exceed the equivalent of 10 mg of prednisone per day), must be on a stable dose = 4 weeks prior to screening and remain on that stable dose during the treatment period of the study.
+10. Normal or clinically acceptable electrocardiogram (ECG) values (12-lead reporting ventricular rate and PR, QRS, QT and QTc interval) at screening and baseline (Day -1) based on opinion of the Investigator.
+11. Immunizations [tetanus, diphtheria, pertussis (Td/Tdap), seasonal influenza (during flu season), and pneumococcal (polysaccharide) vaccinations] up to date per local standards as determined by the Investigator.
+12. Women can be of either childbearing or non-childbearing potential as per below:
+a) Women of childbearing potential must have a negative pregnancy test during screening and at baseline (Day -1) and must agree to be sexually abstinent or use 2 highly effective methods of birth control during the study and for 3 months following last dose of XmAb5871, out of which one must be a physical barrier method. Highly effective methods of birth control include sexual abstinence, hormonal birth control, intrauterine devices (IUDs), or any barrier methods (sponges, female condoms) used by the woman in addition to contraception used by their male partner such as vasectomy or condom supplemented with spermicide.
+b) Women of documented non-childbearing potential (i.e., postmenopausal by history with no menses for one year and confirmed by follicle stimulating hormone (FSH) level [using local reference ranges], OR history of hysterectomy, OR history of bilateral tubal ligation, OR history of bilateral oophorectomy).
+13. Male patients can be of either childbearing or non-childbearing potential and must be willing to use a highly effective method of birth control for the duration of the study and continuing for 3 months after the last dose of XmAb5871. Highly effective methods of birth control include sexual abstinence, vasectomy or a condom in combination with barrier methods, hormonal birth control or IUD used by the woman.
+14. Able and willing to complete the entire study according to the study schedule.
+E.4 Principal exclusion criteria: 1. History or evidence of a clinically unstable/uncontrolled disorder, condition or disease (including but not limited to cardiopulmonary, oncologic, renal, metabolic, hematologic or psychiatric) other than RA, that in the opinion of the Investigator or Xencor physician would pose a risk to patient safety or interfere with the study evaluation, procedures or completion.
+2. Malignancy within 5 years (except successfully treated in situ cervical cancer or squamous or basal cell carcinoma of the skin)
+3. Presence of recurrent or chronic infections, definedas = 3 infections requiring antibiotics over the past 12 months prior to screening
+4. Evidence of any bacterial, viral, parasitic or systemic fungal infections within the 30 days prior to randomization.
+5. Presence of a serious infection, defined as requiring hospitalization or iv antibiotics within 8 weeks before screening.
+6. Prosthetic joint infection within 5 years of screening or native joint infection within 1 year of screening.
+7. Prior or current history of untreated Mycobacterium tuberculosis infection.
+8. Known residential exposure to an individual with tuberculosis (TB) prior to or during screening (if not treated with appropriate chemoprophylaxis) or positive Quantiferon test at screening.
+9. Class IV RA according to the 1991 ACR revised response criteria (Hochberg 1992).
+10. Diagnosed with Felty’s syndrome (RA, splenomegaly and granulocytopenia).
+11. Positive test for human immunodeficiency virus (HIV) antibodies, hepatitis B surface antigen, or hepatitis C antibodies.
+12. White blood cell count < 3.0 x 103/L, or absolute neutrophil count (ANC) < 1.5 x 103/L.
+13. Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) at screening > 2.5 x upper limit of normal (ULN).
+14. Elevated serum creatinine > 1.5 x ULN OR estimated creatinine clearance < 50 mL/min calculated by the Cockroft-Gault formula at screening.
+15. Hemoglobin < 10 g/dL.
+16. Platelet count < 75,000 x 109/L.
+17. Received live vaccines within 3 months of first dose of investigational product.
+18. Patient is pregnant or breast feeding, or planning to become pregnant while enrolled in the study, up to End of Study (EOS) visit.
+19. Positive urine pregnancy test (i.e., urine human chorionic gonadotropin [hCG]) at screening or baseline (Day -1).
+20. Male patient with a pregnant partner who is not willing to use a condom during the treatment and up to EOS visit.
+21. Known or suspected sensitivity to mammalian cell-derived products or any components of the study drug.
+22. History of alcohol and/or substance abuse within 12 months prior to screening.
+23. Blood donation of > 500 mL within 60 days of study drug administration.
+24. Positive alcohol breath test and/or positive urine screen for potential drugs of abuse at screening or baseline (Day-1).
+25. Unable or unwilling to partake in follow-up assessments or required protocol procedures.
+26. Leflunomide use in combination with methotrexate.
+27. Use of cyclophosphamide or gold within the 3 months of randomization.
+28. Use of cyclosporine or mycophenolic acid within 2 months of randomization.
+29. Any prior use of rituximab (or other B cell depleting agents).
+30. Use of anti-TNF monoclonal antibodies (mAbs; infliximab, adalimumab, golimumab, certolizumab), anti-IL-6R mAb (tocilizumab) or CTLA4-Ig (abatacept) within 2 months of randomization.
+31. Use of etanercept, or anakinra within 28 days of randomization.
+32. Patients who have received intra-articular or systemic corticosteroid injections for treatment of acute RA flare (not being part of a regular therapeutic regimen) within 4 weeks prior to randomization.
+33. Inadequate response to or intolerance to > 3 anti-TNF treatments.
+34. The use of any experimental/investigational biologic DMARD that impacts the immune system requires
+a) > 6 months off the investigational agent prior to enrollment,
+b) approval by the Sponsor, and
+c) reasonable confidence by the Investigator that the PD effect of the agent has returned to baseline at the time of enrollment.
+35. Use of any investigational drug (small molecule) or device within 60 days prior to study drug administration.
+36. Participated in an investigational drug trial involving a mAb (not targeting the immune system) within 6 months or 5 half-lives, whichever period is longer, prior to randomization.
+E.5 End points
+E.5.1 Primary end point(s): Safety and tolerability as assessed by
+-AEs
+-Vital signs
+-Physical examination findings
+-Clinical laboratory safety assessments
+-ECG parameters
+
+
+E.5.1.1 Timepoint(s) of evaluation of this end point: -AEs: Continously from screening to follow up visit
+-Vital signs: SCR, D-1 to D4, D8, D15, D22, D29, D43, D57, D71, D85, D113, D141, D169
+-Physical examination: SCR, D-1, D8, D15, D29, D43, D57, D71, D85, D113, D141, D169
+-clinical laboratory safety assessments: SCR, D-1, D1, D2, D4, D8, D15, D22, D29, D43, D57, D71, D85, D113, D141, D169
+-ECG: SCR, D-1, D1, D3, D8, D15, D43, D71, D169
+E.5.2 Secondary end point(s): -Determination of XmAb5871 serum concentrations and derived PK parameters ( Cmax, Tmax, AUCtau, AUCinf, t1/2, CL, Vss )
+-Development of anti-XmAb5871 antibody (human anti-human antibody [HAHA])
+-RA disease response as measured by changes in DAS28-CRP at Week 13 (part B)
+E.5.2.1 Timepoint(s) of evaluation of this end point: -XmAb5871 serum concentration: D1-D4, D8, D15, D22, D29, D43, D57, D71-D73, D78, D85, D99, D113, D141, D169
+-anti-XmAb5871 antibody: D1, D15, D43, D71, D85, D99, D113, D141, D169
+-DAS28-CRP: Day85 (Week 13)
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: Yes
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Yes
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Yes
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: No
+E.8.1.7 Other: Yes
+E.8.1.7.1 Other trial design description: Multiple Ascending Dose
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: Yes
+E.8.2.3 Other: No
+E.8.2.4 Number of treatment arms in the trial: 5
+E.8.3 The trial involves single site in the Member State concerned: Yes
+E.8.4 The trial involves multiple sites in the Member State concerned: No
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 10
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: LVLS
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 0
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 1
+E.8.9.2 In all countries concerned by the trial months: 0
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 58
+F.1.3 Elderly (>=65 years): Yes
+F.1.3.1 Number of subjects for this age range: 58
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 12
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 58
+F.4.2.2 In the whole clinical trial: 58
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): None
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2013-04-02
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2012-11-06
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2014-09-30
+
+Summary
+EudraCT Number: 2012-003057-29
+Sponsor's Protocol Code Number: XmAb5871-02
+National Competent Authority: Slovakia - SIDC (Slovak) 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2012-09-19
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2012-003057-29/SK/
+
+A. Protocol Information
+A.1 Member State Concerned: Slovakia - SIDC (Slovak)
+A.2 EudraCT number: 2012-003057-29
+A.3 Full title of the trial: A RANDOMIZED, PLACEBO-CONTROLLED, DOUBLE-BLINDED, ASCENDING MULTIPLE DOSE STUDY OF THE SAFETY, TOLERABILITY, PHARMACOKINETICS AND PHARMACODYNAMICS OF XMAB®5871 IN PATIENTS WITH RHEUMATOID ARTHRITIS
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: A multi-centre, randomised, double-blind multiple dose study of increasing doses of XmAb5871 in patients with Rheumatoid Arthritis.
+
+A.3.2 Name or abbreviated title of the trial where available: XmAb®5871 Phase IIa, Ascending Multiple Dose Study in Rheumatoid Arthritis Patients
+A.4.1 Sponsor's protocol code number: XmAb5871-02
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Xencor Inc.
+B.1.3.4	Country: United States
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: Xencor Inc.
+B.4.2 Country: United States
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: MWB Consulting Ltd
+B.5.2 Functional name of contact point: Project Manager
+B.5.3 Address
+B.5.3.1 Street Address: Enbridge Coach House, Church Road
+B.5.3.2 Town/ city: Woolton Hill, Newbury, Berkshire
+B.5.3.3 Post code: RG209XQ
+B.5.3.4 Country: United Kingdom
+B.5.4 Telephone number: 443331213131
+B.5.5 Fax number: 443331213130
+B.5.6 E-mail: bnorton@mwbconsulting.com
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_10.0MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody.
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 9.7 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_3.0MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody.
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 9.7 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_1.0MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody.
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 9.7 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_0.3MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody.
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 9.7 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Concentrate for solution for infusion
+D.8.4 Route of administration of the placebo: Intravenous use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: XmAb5871 is a humanized Fc engineered monoclonal antibody that binds to the human B cell restricted cell surface antigen CD19. It has already entered Phase 1 clinical development. The available evidence suggests that XmAb5871 is a potentially useful immunomodulatory antibody for therapy of B cell mediated human disease states such as rheumatoid arthritis.
+E.1.1.1 Medical condition in easily understood language: Patients who are currently being treated for active rheumatoid arthritis, where their rheumatoid arthritis treatment has not changed for 12 weeks.
+E.1.1.2 Therapeutic area: Diseases [C] - Immune System Diseases [C20]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 15.0
+E.1.2 Level: HLT
+E.1.2 Classification code: 10039075
+E.1.2 Term: Rheumatoid arthritis and associated conditions
+E.1.2 System Organ Class: 10021428 - Immune system disorders
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To determine the safety and tolerability profile of multiple-dose, every 14-day, intravenous (iv) administration of XmAb5871 in patients with RA
+E.2.2 Secondary objectives of the trial: 1. To characterize the pharmacokinetics (PK) and immunogenicity of multiple-dose, intravenously administered XmAb5871 in patients with RA
+
+2. To evaluate the effect of XmAb5871 on RA disease response as measured by changes in Disease Activity Score 28 using C-reactive protein [DAS28-CRP] at Week 13 (Part B).
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1. Able to provide written informed consent.
+2. Male or female between 18 to 70 years of age, inclusive at the time of screening.
+3. Rheumatoid arthritis present for at least 6 months as defined by 1987 ACR RA classification criteria.
+4. Global functional class I, II, or III according to the ACR 1991 revised criteria (Hochberg 1992).
+5. For Part A: Active RA at screening defined as = 4 swollen joints (out of 28 joints examined) AND = 4 tender/painful joints (out of 28 joints examined) AND at least 1 of the following:
+a) ESR = 28 mm/hr, OR
+b) hsCRP = 10 mg/L, OR
+c) Morning stiffness = 45 minutes.
+6. For Part B: Active RA at screening defined as = 5 swollen joints (out of 28 joints examined) AND = 5 tender/painful joints (out of 28 joints examined), AND
+a) positive RF OR ACPA, AND
+b) hsCRP = 10 mg/L.
+7. Part B only: Previous inadequate clinical response to at least 1, but not more than 5 oral DMARDs.
+8. Currently taking methotrexate (MTX) consecutively for = 12 weeks and on a stable dose of oral or subcutaneous MTX at 7.5-25 mg weekly for = 4 weeks at Day -1. A lower MTX dose is acceptable if it is the highest tolerated dose; however, toxicity documentation by the Investigator is required. All patients will take folic acid to minimize toxicity, according to local guidelines. Patient may remain on a stable dose (= 8 weeks) of sulfasalazine (up to 3000 mg/day) and/or hydroxychloroquine (up to 400 mg/day) in combination with MTX. If previously experienced toxicity or lack of efficacy on MTX, patient may be on a stable dose (= 8 weeks) of sulfasalazine and/or leflunomide (up to 20 mg/day). Hydroxychloroquine (up to 400 mg/day) is allowed in combination with these DMARDs. Other oral DMARDs are not allowed within 4 weeks prior to screening.
+9. Patients currently taking non steroidal anti-inflammatory drugs (NSAIDs) or oral corticosteroids (not to exceed the equivalent of 10 mg of prednisone per day), must be on a stable dose = 4 weeks prior to screening and remain on that stable dose during the treatment period of the study.
+10. Normal or clinically acceptable electrocardiogram (ECG) values (12-lead reporting ventricular rate and PR, QRS, QT and QTc interval) at screening and baseline (Day -1) based on opinion of the Investigator.
+11. Immunizations [tetanus, diphtheria, pertussis (Td/Tdap), seasonal influenza (during flu season), and pneumococcal (polysaccharide) vaccinations] up to date per local standards as determined by the Investigator.
+12. Women can be of either childbearing or non-childbearing potential as per below:
+a) Women of childbearing potential must have a negative pregnancy test during screening and at baseline (Day -1) and must agree to be sexually abstinent or use 2 highly effective methods of birth control during the study and for 3 months following last dose of XmAb5871, out of which one must be a physical barrier method. Highly effective methods of birth control include sexual abstinence, hormonal birth control, intrauterine devices (IUDs), or any barrier methods (sponges, female condoms) used by the woman in addition to contraception used by their male partner such as vasectomy or condom supplemented with spermicide.
+b) Women of documented non-childbearing potential (i.e., postmenopausal by history with no menses for one year and confirmed by follicle stimulating hormone (FSH) level [using local reference ranges], OR history of hysterectomy, OR history of bilateral tubal ligation, OR history of bilateral oophorectomy).
+13. Male patients can be of either childbearing or non-childbearing potential and must be willing to use a highly effective method of birth control for the duration of the study and continuing for 3 months after the last dose of XmAb5871. Highly effective methods of birth control include sexual abstinence, vasectomy or a condom in combination with barrier methods, hormonal birth control or IUD used by the woman.
+14. Able and willing to complete the entire study according to the study schedule.
+E.4 Principal exclusion criteria: 1. History or evidence of a clinically unstable/uncontrolled disorder, condition or disease (including but not limited to cardiopulmonary, oncologic, renal, metabolic, hematologic or psychiatric) other than RA, that in the opinion of the Investigator or Xencor physician would pose a risk to patient safety or interfere with the study evaluation, procedures or completion.
+2. Malignancy within 5 years (except successfully treated in situ cervical cancer or squamous or basal cell carcinoma of the skin)
+3. Presence of recurrent or chronic infections, definedas = 3 infections requiring antibiotics over the past 12 months prior to screening
+4. Evidence of any bacterial, viral, parasitic or systemic fungal infections within the 30 days prior to randomization.
+5. Presence of a serious infection, defined as requiring hospitalization or iv antibiotics within 8 weeks before screening.
+6. Prosthetic joint infection within 5 years of screening or native joint infection within 1 year of screening.
+7. Prior or current history of untreated Mycobacterium tuberculosis infection.
+8. Known residential exposure to an individual with tuberculosis (TB) prior to or during screening (if not treated with appropriate chemoprophylaxis) or positive Quantiferon test at screening consistent with previous exposure to TB. In case of prior evidence of latent infection or in case of documented BCG vaccination, eligibility will be determined in consultation with the Sponsor considering the adequacy and documentation of treatment or vaccination.
+9. Class IV RA according to the 1991 ACR revised response criteria (Hochberg 1992).
+10. Diagnosed with Felty’s syndrome (RA, splenomegaly and granulocytopenia).
+11. Positive test for human immunodeficiency virus (HIV) antibodies, hepatitis B surface antigen, or hepatitis C antibodies.
+12. White blood cell count < 3.0 x 103/L, or absolute neutrophil count (ANC) < 1.5 x 103/L.
+13. Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) at screening > 2.5 x upper limit of normal (ULN).
+14. Elevated serum creatinine > 1.5 x ULN OR estimated creatinine clearance < 50 mL/min calculated by the Cockroft-Gault formula at screening.
+15. Hemoglobin < 10 g/dL.
+16. Platelet count < 75,000 x 109/L.
+17. Received live vaccines within 3 months of first dose of investigational product.
+18. Patient is pregnant or breast feeding, or planning to become pregnant while enrolled in the study, up to End of Study (EOS) visit.
+19. Positive urine pregnancy test (i.e., urine human chorionic gonadotropin [hCG]) at screening or baseline (Day -1).
+20. Male patient with a pregnant partner who is not willing to use a condom during the treatment and up to EOS visit.
+21. Known or suspected sensitivity to mammalian cell-derived products or any components of the study drug.
+22. History of alcohol and/or substance abuse within 12 months prior to screening.
+23. Blood donation of > 500 mL within 60 days of study drug administration.
+24. Positive alcohol breath test and/or positive urine screen for potential drugs of abuse at screening or baseline (Day-1).
+25. Unable or unwilling to partake in follow-up assessments or required protocol procedures.
+26. Leflunomide use in combination with methotrexate.
+27. Use of cyclophosphamide or gold within the 3 months of randomization.
+28. Use of cyclosporine or mycophenolic acid within 2 months of randomization.
+29. Any prior use of rituximab (or other B cell depleting agents).
+30. Use of anti-TNF monoclonal antibodies (mAbs; infliximab, adalimumab, golimumab, certolizumab), anti-IL-6R mAb (tocilizumab) or CTLA4-Ig (abatacept) within 2 months of randomization.
+31. Use of etanercept, or anakinra within 28 days of randomization.
+32. Patients who have received intra-articular or systemic corticosteroid injections for treatment of acute RA flare (not being part of a regular therapeutic regimen) within 4 weeks prior to randomization.
+33. Inadequate response to or intolerance to > 3 anti-TNF treatments.
+34. The use of any experimental/investigational biologic DMARD that impacts the immune system requires
+a) > 6 months off the investigational agent prior to enrollment,
+b) approval by the Sponsor, and
+c) reasonable confidence by the Investigator that the PD effect of the agent has returned to baseline at the time of enrollment.
+35. Use of any investigational drug (small molecule) or device within 60 days prior to study drug administration.
+36. Participated in an investigational drug trial involving a mAb (not targeting the immune system) within 6 months or 5 half-lives, whichever period is longer, prior to randomization.
+E.5 End points
+E.5.1 Primary end point(s): Safety and tolerability as assessed by
+-AEs
+-Vital signs
+-Physical examination findings
+-Clinical laboratory safety assessments
+-ECG parameters
+
+
+E.5.1.1 Timepoint(s) of evaluation of this end point: -AEs: Continously from screening to follow up visit
+-Vital signs: SCR, D-1 to D4, D8, D15, D22, D29, D43, D57, D71, D85, D113, D141, D169
+-Physical examination: SCR, D-1, D8, D15, D29, D43, D57, D71, D85, D113, D141, D169
+-clinical laboratory safety assessments: SCR, D-1, D1, D2, D4, D8, D15, D22, D29, D43, D57, D71, D85, D113, D141, D169
+-ECG: SCR, D-1, D1, D3, D8, D15, D43, D71, D169
+E.5.2 Secondary end point(s): -Determination of XmAb5871 serum concentrations and derived PK parameters ( Cmax, Tmax, AUCtau, AUCinf, t1/2, CL, Vss )
+-Development of anti-XmAb5871 antibody (human anti-human antibody [HAHA])
+-RA disease response as measured by changes in DAS28-CRP at Week 13 (part B)
+E.5.2.1 Timepoint(s) of evaluation of this end point: -XmAb5871 serum concentration: D1-D4, D8, D15, D22, D29, D43, D57, D71-D73, D78, D85, D99, D113, D141, D169
+-anti-XmAb5871 antibody: D1, D15, D43, D71, D85, D99, D113, D141, D169
+-DAS28-CRP: Day85 (Week 13)
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: Yes
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Yes
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Yes
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: No
+E.8.1.7 Other: Yes
+E.8.1.7.1 Other trial design description: Multiple Ascending Dose
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: Yes
+E.8.2.3 Other: No
+E.8.2.4 Number of treatment arms in the trial: 5
+E.8.3 The trial involves single site in the Member State concerned: Yes
+E.8.4 The trial involves multiple sites in the Member State concerned: No
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 10
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: LVLS
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 0
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 1
+E.8.9.2 In all countries concerned by the trial months: 0
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 58
+F.1.3 Elderly (>=65 years): Yes
+F.1.3.1 Number of subjects for this age range: 58
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 12
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 58
+F.4.2.2 In the whole clinical trial: 58
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): None
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2012-11-12
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2012-10-23
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2014-09-30
+
+Summary
+EudraCT Number: 2012-003057-29
+Sponsor's Protocol Code Number: XmAb5871-02
+National Competent Authority: Hungary - National Institute of Pharmacy 
+Clinical Trial Type: EEA CTA
+Trial Status: Ongoing
+Date on which this record was first entered in the EudraCT database: 2012-09-19
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2012-003057-29/HU/
+
+A. Protocol Information
+A.1 Member State Concerned: Hungary - National Institute of Pharmacy
+A.2 EudraCT number: 2012-003057-29
+A.3 Full title of the trial: A RANDOMIZED, PLACEBO-CONTROLLED, DOUBLE-BLINDED, ASCENDING MULTIPLE DOSE STUDY OF THE SAFETY, TOLERABILITY, PHARMACOKINETICS AND PHARMACODYNAMICS OF XMAB®5871 IN PATIENTS WITH RHEUMATOID ARTHRITIS
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: A multi-centre, randomised, double-blind multiple dose study of increasing doses of XmAb5871 in patients with Rheumatoid Arthritis.
+
+A.3.2 Name or abbreviated title of the trial where available: XmAb®5871 Phase IIa, Ascending Multiple Dose Study in Rheumatoid Arthritis Patients
+A.4.1 Sponsor's protocol code number: XmAb5871-02
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Xencor Inc.
+B.1.3.4	Country: United States
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: Xencor Inc.
+B.4.2 Country: United States
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: MWB Consulting Ltd
+B.5.2 Functional name of contact point: Project Manager
+B.5.3 Address
+B.5.3.1 Street Address: Enbridge Coach House, Church Road
+B.5.3.2 Town/ city: Woolton Hill, Newbury, Berkshire
+B.5.3.3 Post code: RG209XQ
+B.5.3.4 Country: United Kingdom
+B.5.4 Telephone number: 443331213131
+B.5.5 Fax number: 443331213130
+B.5.6 E-mail: bnorton@mwbconsulting.com
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_10.0MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody.
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 9.7 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_3.0MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody.
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 9.7 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_1.0MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody.
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 9.7 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: XmAb5871_0.3MG
+D.3.2 Product code: XENP5871
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: XmAb®5871
+D.3.9.2 Current sponsor code: XENP5871
+D.3.9.3 Other descriptive name: Engineered humanized monoclonal anti-human CD19 antibody.
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 9.7 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Concentrate for solution for infusion
+D.8.4 Route of administration of the placebo: Intravenous use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: XmAb5871 is a humanized Fc engineered monoclonal antibody that binds to the human B cell restricted cell surface antigen CD19. It has already entered Phase 1 clinical development. The available evidence suggests that XmAb5871 is a potentially useful immunomodulatory antibody for therapy of B cell mediated human disease states such as rheumatoid arthritis.
+E.1.1.1 Medical condition in easily understood language: Patients who are currently being treated for active rheumatoid arthritis, where their rheumatoid arthritis treatment has not changed for 12 weeks.
+E.1.1.2 Therapeutic area: Diseases [C] - Immune System Diseases [C20]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 16.1
+E.1.2 Level: HLT
+E.1.2 Classification code: 10039075
+E.1.2 Term: Rheumatoid arthritis and associated conditions
+E.1.2 System Organ Class: 100000004870
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To determine the safety and tolerability profile of multiple-dose, every 14-day, intravenous (iv) administration of XmAb5871 in patients with RA
+E.2.2 Secondary objectives of the trial: 1. To characterize the pharmacokinetics (PK) and immunogenicity of multiple-dose, intravenously administered XmAb5871 in patients with RA
+
+2. To evaluate the effect of XmAb5871 on RA disease response as measured by changes in Disease Activity Score 28 using C-reactive protein [DAS28-CRP] at Week 13 (Part B).
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1. Able to provide written informed consent.
+2. Male or female between 18 to 70 years of age, inclusive at the time of screening.
+3. Rheumatoid arthritis present for at least 6 months as defined by 1987 ACR RA classification criteria.
+4. Global functional class I, II, or III according to the ACR 1991 revised criteria (Hochberg 1992).
+5. For Part A: Active RA at screening defined as = 4 swollen joints (out of 28 joints examined) AND = 4 tender/painful joints (out of 28 joints examined) AND at least 1 of the following:
+a) ESR = 28 mm/hr, OR
+b) hsCRP = 10 mg/L, OR
+c) Morning stiffness = 45 minutes.
+6. For Part B: Active RA at screening defined as = 5 swollen joints (out of 28 joints examined) AND = 5 tender/painful joints (out of 28 joints examined), AND
+a) positive RF OR ACPA, AND
+b) hsCRP = 10 mg/L.
+7. Part B only: Previous inadequate clinical response to at least 1, but not more than 5 oral DMARDs.
+8. Currently taking methotrexate (MTX) consecutively for = 12 weeks and on a stable dose of oral or subcutaneous MTX at 7.5-25 mg weekly for = 4 weeks at Day -1. A lower MTX dose is acceptable if it is the highest tolerated dose; however, toxicity documentation by the Investigator is required. All patients will take folic acid to minimize toxicity, according to local guidelines. Patient may remain on a stable dose (= 8 weeks) of sulfasalazine (up to 3000 mg/day) and/or hydroxychloroquine (up to 400 mg/day) in combination with MTX. If previously experienced toxicity or lack of efficacy on MTX, patient may be on a stable dose (= 8 weeks) of sulfasalazine and/or leflunomide (up to 20 mg/day). Hydroxychloroquine (up to 400 mg/day) is allowed in combination with these DMARDs. Other oral DMARDs are not allowed within 4 weeks prior to screening.
+9. Patients currently taking non steroidal anti-inflammatory drugs (NSAIDs) or oral corticosteroids (not to exceed the equivalent of 10 mg of prednisone per day), must be on a stable dose = 4 weeks prior to screening and remain on that stable dose during the treatment period of the study.
+10. Normal or clinically acceptable electrocardiogram (ECG) values (12-lead reporting ventricular rate and PR, QRS, QT and QTc interval) at screening and baseline (Day -1) based on opinion of the Investigator.
+11. Immunizations [tetanus, diphtheria, pertussis (Td/Tdap), seasonal influenza (during flu season), and pneumococcal (polysaccharide) vaccinations] up to date per local standards as determined by the Investigator.
+12. Women can be of either childbearing or non-childbearing potential as per below:
+a) Women of childbearing potential must have a negative pregnancy test during screening and at baseline (Day -1) and must agree to be sexually abstinent or use 2 highly effective methods of birth control during the study and for 3 months following last dose of XmAb5871, out of which one must be a physical barrier method. Highly effective methods of birth control include sexual abstinence, hormonal birth control, intrauterine devices (IUDs), or any barrier methods (sponges, female condoms) used by the woman in addition to contraception used by their male partner such as vasectomy or condom supplemented with spermicide.
+b) Women of documented non-childbearing potential (i.e., postmenopausal by history with no menses for one year and confirmed by follicle stimulating hormone (FSH) level [using local reference ranges], OR history of hysterectomy, OR history of bilateral tubal ligation, OR history of bilateral oophorectomy).
+13. Male patients can be of either childbearing or non-childbearing potential and must be willing to use a highly effective method of birth control for the duration of the study and continuing for 3 months after the last dose of XmAb5871. Highly effective methods of birth control include sexual abstinence, vasectomy or a condom in combination with barrier methods, hormonal birth control or IUD used by the woman.
+14. Able and willing to complete the entire study according to the study schedule.
+E.4 Principal exclusion criteria: 1. History or evidence of a clinically unstable/uncontrolled disorder, condition or disease (including but not limited to cardiopulmonary, oncologic, renal, metabolic, hematologic or psychiatric) other than RA, that in the opinion of the Investigator or Xencor physician would pose a risk to patient safety or interfere with the study evaluation, procedures or completion.
+2. Malignancy within 5 years (except successfully treated in situ cervical cancer or squamous or basal cell carcinoma of the skin)
+3. Presence of recurrent or chronic infections, definedas = 3 infections requiring antibiotics over the past 12 months prior to screening
+4. Evidence of any bacterial, viral, parasitic or systemic fungal infections within the 30 days prior to randomization.
+5. Presence of a serious infection, defined as requiring hospitalization or iv antibiotics within 8 weeks before screening.
+6. Prosthetic joint infection within 5 years of screening or native joint infection within 1 year of screening.
+7. Prior or current history of untreated Mycobacterium tuberculosis infection.
+8. Known residential exposure to an individual with tuberculosis (TB) prior to or during screening (if not treated with appropriate chemoprophylaxis) or positive Quantiferon test at screening.
+9. Class IV RA according to the 1991 ACR revised response criteria (Hochberg 1992).
+10. Diagnosed with Felty’s syndrome (RA, splenomegaly and granulocytopenia).
+11. Positive test for human immunodeficiency virus (HIV) antibodies, hepatitis B surface antigen, or hepatitis C antibodies.
+12. White blood cell count < 3.0 x 103/L, or absolute neutrophil count (ANC) < 1.5 x 103/L.
+13. Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) at screening > 2.5 x upper limit of normal (ULN).
+14. Elevated serum creatinine > 1.5 x ULN OR estimated creatinine clearance < 50 mL/min calculated by the Cockroft-Gault formula at screening.
+15. Hemoglobin < 10 g/dL.
+16. Platelet count < 75,000 x 109/L.
+17. Received live vaccines within 3 months of first dose of investigational product.
+18. Patient is pregnant or breast feeding, or planning to become pregnant while enrolled in the study, up to End of Study (EOS) visit.
+19. Positive urine pregnancy test (i.e., urine human chorionic gonadotropin [hCG]) at screening or baseline (Day -1).
+20. Male patient with a pregnant partner who is not willing to use a condom during the treatment and up to EOS visit.
+21. Known or suspected sensitivity to mammalian cell-derived products or any components of the study drug.
+22. History of alcohol and/or substance abuse within 12 months prior to screening.
+23. Blood donation of > 500 mL within 60 days of study drug administration.
+24. Positive alcohol breath test and/or positive urine screen for potential drugs of abuse at screening or baseline (Day-1).
+25. Unable or unwilling to partake in follow-up assessments or required protocol procedures.
+26. Leflunomide use in combination with methotrexate.
+27. Use of cyclophosphamide or gold within the 3 months of randomization.
+28. Use of cyclosporine or mycophenolic acid within 2 months of randomization.
+29. Any prior use of rituximab (or other B cell depleting agents).
+30. Use of anti-TNF monoclonal antibodies (mAbs; infliximab, adalimumab, golimumab, certolizumab), anti-IL-6R mAb (tocilizumab) or CTLA4-Ig (abatacept) within 2 months of randomization.
+31. Use of etanercept, or anakinra within 28 days of randomization.
+32. Patients who have received intra-articular or systemic corticosteroid injections for treatment of acute RA flare (not being part of a regular therapeutic regimen) within 4 weeks prior to randomization.
+33. Inadequate response to or intolerance to > 3 anti-TNF treatments.
+34. The use of any experimental/investigational biologic DMARD that impacts the immune system requires
+a) > 6 months off the investigational agent prior to enrollment,
+b) approval by the Sponsor, and
+c) reasonable confidence by the Investigator that the PD effect of the agent has returned to baseline at the time of enrollment.
+35. Use of any investigational drug (small molecule) or device within 60 days prior to study drug administration.
+36. Participated in an investigational drug trial involving a mAb (not targeting the immune system) within 6 months or 5 half-lives, whichever period is longer, prior to randomization.
+E.5 End points
+E.5.1 Primary end point(s): Safety and tolerability as assessed by
+-AEs
+-Vital signs
+-Physical examination findings
+-Clinical laboratory safety assessments
+-ECG parameters
+
+
+E.5.1.1 Timepoint(s) of evaluation of this end point: -AEs: Continously from screening to follow up visit
+-Vital signs: SCR, D-1 to D4, D8, D15, D22, D29, D43, D57, D71, D85, D113, D141, D169
+-Physical examination: SCR, D-1, D8, D15, D29, D43, D57, D71, D85, D113, D141, D169
+-clinical laboratory safety assessments: SCR, D-1, D1, D2, D4, D8, D15, D22, D29, D43, D57, D71, D85, D113, D141, D169
+-ECG: SCR, D-1, D1, D3, D8, D15, D43, D71, D169
+E.5.2 Secondary end point(s): -Determination of XmAb5871 serum concentrations and derived PK parameters ( Cmax, Tmax, AUCtau, AUCinf, t1/2, CL, Vss )
+-Development of anti-XmAb5871 antibody (human anti-human antibody [HAHA])
+-RA disease response as measured by changes in DAS28-CRP at Week 13 (part B)
+E.5.2.1 Timepoint(s) of evaluation of this end point: -XmAb5871 serum concentration: D1-D4, D8, D15, D22, D29, D43, D57, D71-D73, D78, D85, D99, D113, D141, D169
+-anti-XmAb5871 antibody: D1, D15, D43, D71, D85, D99, D113, D141, D169
+-DAS28-CRP: Day85 (Week 13)
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: Yes
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Yes
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Yes
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: No
+E.8.1.7 Other: Yes
+E.8.1.7.1 Other trial design description: Multiple Ascending Dose
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: Yes
+E.8.2.3 Other: No
+E.8.2.4 Number of treatment arms in the trial: 5
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 3
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 10
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: LVLS
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 0
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 1
+E.8.9.2 In all countries concerned by the trial months: 0
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 58
+F.1.3 Elderly (>=65 years): Yes
+F.1.3.1 Number of subjects for this age range: 58
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 12
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 58
+F.4.2.2 In the whole clinical trial: 58
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): None
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2012-11-13
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2012-11-07
+
+P. End of Trial
+P. End of Trial Status: Ongoing
+
